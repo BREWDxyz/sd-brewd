@@ -26,6 +26,7 @@ except Exception as e:
 # Define Intents for the Bot
 intents = discord.Intents.default()
 intents.messages = True
+intents.message_content = True
 intents.guilds = True
 
 # Discord Bot Setup
