@@ -3,3 +3,4 @@ pymongo==4.6.0
 requests==2.31.0
 gradio==4.2.0
 huggingface_hub==0.19.4
+Pillow==10.1.0
